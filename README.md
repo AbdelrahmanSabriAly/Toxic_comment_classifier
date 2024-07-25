@@ -5,10 +5,11 @@ They harm individuals, create toxic online environment, and hinder meaningful di
 
 In this project, a recurrent neural network is trained on the Jigsaw dataset.
 
-Jigsaw dataset: [https://www.kaggle.com/datasets/julian3833/jigsaw-toxic-comment-classification-challenge]
+[Jigsaw dataset](https://www.kaggle.com/datasets/julian3833/jigsaw-toxic-comment-classification-challenge).<br />
+
 
 #### To run the program:
 ```
 pip install -r requirements.txt
-streamlit app.py
+streamlit run app.py
 ```
